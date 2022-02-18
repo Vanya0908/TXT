@@ -1,1 +1,9 @@
-
+ID 1
+Title In the chat store, when you type a message on the left side of the screen displays a part of the main page
+Environment Samsung A31,Google Chrome 98.0.4758.101
+STR 1.Go to https://www.com click tap 2.Click on the message icon in the lower right corner 3.Click on the message input field
+Expected result Store chat is displayed in full screen
+Actual result Part of the home page is displayed on the left side of the screen
+Priority Medium
+Severity Major
+Attachments https://prnt.sc/j5LkCyAXF--B
