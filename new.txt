@@ -1,4 +1,4 @@
-first name Ivan
-last name Korolchuk
-age 28
-salary 1000
+first name:Ivan
+last name:Korolchuk
+age:28
+salary:1000
